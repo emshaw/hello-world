@@ -1,2 +1,5 @@
 # hello-world
-just a lil old repository!
+
+HI
+
+I'm Emily. I like tacos and swimming. 
